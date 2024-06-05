@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669795811976",
+    "project_id": "ropulva-2b81a",
+    "storage_bucket": "ropulva-2b81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669795811976:android:4abd80e40a41e09515553d",
+        "android_client_info": {
+          "package_name": "com.example.ropulva_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnVX6v5MM0FTziDAgDXIukkx9vnLkQTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
